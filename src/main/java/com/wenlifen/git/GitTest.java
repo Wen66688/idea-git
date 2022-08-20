@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("master git-idea");
         System.out.println("hox-fix git-idea");
         System.out.println("pull git-idea");
+        System.out.println("push git-idea");
     }
 }
